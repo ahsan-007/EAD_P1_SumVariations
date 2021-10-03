@@ -10,7 +10,7 @@ namespace EAD_P1_VariationsOfSum
     {
         static void Main(string[] args)
         {
-            simulateSumVariation5();
+            simulateSumVariation6();
             Console.ReadKey();
         }
         static void simulateSumVariation1()
@@ -45,9 +45,21 @@ namespace EAD_P1_VariationsOfSum
             double operand2 = Convert.ToDouble(Console.ReadLine());
             Console.Write("Sum Variation 5: " + (operand1 + operand2));
         }
-        static int getSum(int a, int b)
+        static void simulateSumVariation6()
         {
-            return a + b;
+            Console.Write("Enter Operand 1: ");
+            double operand1 = Convert.ToDouble(Console.ReadLine());
+            Console.Write("Enter Operand 2: ");
+            double operand2 = Convert.ToDouble(Console.ReadLine());
+            Console.Write("Sum Variation 6: " + getSum(operand1,operand2));
+        }
+        static int getSum(int operand1, int operand2)
+        {
+            return operand1 + operand2;
+        }
+        static double getSum(double operand1, double operand2)
+        {
+            return operand1 + operand2;
         }
     }
 }
