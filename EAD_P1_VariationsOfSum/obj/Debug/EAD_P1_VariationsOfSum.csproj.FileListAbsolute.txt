@@ -1,0 +1,7 @@
+C:\Users\ahsan\source\repos\EAD_P1_VariationsOfSum\EAD_P1_VariationsOfSum\bin\Debug\EAD_P1_VariationsOfSum.exe.config
+C:\Users\ahsan\source\repos\EAD_P1_VariationsOfSum\EAD_P1_VariationsOfSum\bin\Debug\EAD_P1_VariationsOfSum.exe
+C:\Users\ahsan\source\repos\EAD_P1_VariationsOfSum\EAD_P1_VariationsOfSum\bin\Debug\EAD_P1_VariationsOfSum.pdb
+C:\Users\ahsan\source\repos\EAD_P1_VariationsOfSum\EAD_P1_VariationsOfSum\obj\Debug\EAD_P1_VariationsOfSum.csprojAssemblyReference.cache
+C:\Users\ahsan\source\repos\EAD_P1_VariationsOfSum\EAD_P1_VariationsOfSum\obj\Debug\EAD_P1_VariationsOfSum.csproj.CoreCompileInputs.cache
+C:\Users\ahsan\source\repos\EAD_P1_VariationsOfSum\EAD_P1_VariationsOfSum\obj\Debug\EAD_P1_VariationsOfSum.exe
+C:\Users\ahsan\source\repos\EAD_P1_VariationsOfSum\EAD_P1_VariationsOfSum\obj\Debug\EAD_P1_VariationsOfSum.pdb
